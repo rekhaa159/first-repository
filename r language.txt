@@ -1,0 +1,7 @@
+Key characteristics of R:
+Open-source: R is a GNU project, meaning it is free and open-source software, available under the GNU General Public License. This allows for community contributions and custom library development.
+Statistical focus: R is specifically designed for statistical analysis, offering a vast array of built-in functions and packages for tasks such as statistical inference, time series analysis, linear regression, and machine learning.
+Data visualization: It excels at creating high-quality, customizable visualizations, making it a powerful tool for presenting data insights.
+Extensive package ecosystem: R's functionality is significantly extended by a large number of user-contributed packages. These packages provide specialized tools for various data analysis and visualization needs.
+Cross-platform compatibility: R runs on various operating systems, including Windows, macOS, and different UNIX platforms.
+Interpreted language: R is an interpreted language, meaning code is executed line by line rather than being compiled into a machine-readable format beforehand.
